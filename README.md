@@ -2,7 +2,7 @@
 You are assigned to refactor a piece of code to improve its design using the Adapter design pattern. The code you are provided with interacts with a legacy library that has a different interface from the one you desire. Your task is to implement an adapter that allows the code to work seamlessly with the legacy library.
 
 Code:
-```
+```python
 # Existing Code Snippet
 
 class NewLibrary:
